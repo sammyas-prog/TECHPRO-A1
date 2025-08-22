@@ -1,5 +1,16 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world");
+        System.out.println("Seatwork 5: Samporna");
+        System.out.println("Countdown");
+        int i = 0;
+        while (i < 10) {
+            System.out.println(i);
+            i++;
+            if (i == 4) {
+                break;
+            }
+        }
+
+        System.out.println("Happy New Year");
     }
 }
