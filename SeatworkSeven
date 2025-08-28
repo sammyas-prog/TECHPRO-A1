@@ -1,5 +1,4 @@
 public class SeatworkSeven {
-
     public static void main(String args[]) {
         char grade = 'C';
 
