@@ -1,4 +1,4 @@
-public class Try
-public statistic void main(String[] args) {
- System.out.println("nice");
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("SEATWORKELEVEN");
 }
