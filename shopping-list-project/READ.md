@@ -1,5 +1,7 @@
 Name: Samporna, Mohammad Ashrawi B.
+
 Title: Shopping List Project
+
 Description: This program shows a simple console-based shopping list application 
 that ask the user to enter up to 5 items to buy, using a Scanner for input and an ArrayList to store them as strings,
 it enforces non-empty entries by looping until exactly 5 valid items are added, rejecting empty inputs with an error message. 
