@@ -56,11 +56,17 @@ OUTPUT:
 
 Enter up to 5 items to buy:
 Item 1: apples
+
 Item 2: 
+
 Item cannot be empty. Try again.
+
 Item 2: bananas
+
 Item 3: milk
+
 Item 4: bread
+
 Item 5: eggs
 
 Your shopping list:
